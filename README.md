@@ -93,8 +93,6 @@ Finally, it will launch StackSync client.
 
 ### Build and execution
 
-First of all intall the database
-
 To create an executable jar:
 
     $ mvn assembly:assembly
